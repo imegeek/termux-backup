@@ -1,8 +1,8 @@
-[![github](https://img.shields.io/badge/Termux–Backup-1.0-blue.svg?style=flat-square)](https://github.com/abhackerofficial)
+[![github](https://img.shields.io/badge/Termux–Backup-ver.1.2-blue.svg?style=flat-square)](https://github.com/abhackerofficial)
 [![github](https://img.shields.io/github/stars/abhackerofficial/termux-backup?color=yellow&style=flat-square)](https://github.com/abhackerofficial)
 [![github](https://img.shields.io/github/license/abhackerofficial/termux-backup?style=flat-square)](https://github.com/abhackerofficial)
 
-![termux-backup](https://user-images.githubusercontent.com/63346676/94524608-78aa5480-0250-11eb-8799-a2df164f450b.jpg)
+![termux-backup](https://user-images.githubusercontent.com/63346676/94644542-3f80eb80-0307-11eb-9c8e-95569501d3b8.jpeg)
 
 #### Temporary Installation :
 ```
